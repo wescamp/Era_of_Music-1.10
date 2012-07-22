@@ -1,0 +1,849 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: branch 1.10\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-07-22 19:23-0400\n"
+"PO-Revision-Date: 2012-07-22 19:23-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. [era]: id=era_of_music
+#: Era_of_Music/Era_of_Music.cfg:4
+msgid "Era of Music"
+msgstr ""
+
+#. [multiplayer_side]: id=strings, type=principal
+#: Era_of_Music/Era_of_Music.cfg:12
+msgid "Strings"
+msgstr ""
+
+#. [multiplayer_side]: id=woodwind, type=alto_sax
+#: Era_of_Music/Era_of_Music.cfg:20
+msgid "Woodwind"
+msgstr ""
+
+#. [multiplayer_side]: id=brass, type=tuba
+#: Era_of_Music/Era_of_Music.cfg:28
+msgid "Brass"
+msgstr ""
+
+#. [multiplayer_side]: id=perc, type=drum_kit
+#: Era_of_Music/Era_of_Music.cfg:36
+msgid "Percussion"
+msgstr ""
+
+#. [race]: id=brass
+#: Era_of_Music/races/Brass.cfg:5 Era_of_Music/races/Brass.cfg:7
+msgid "race^Brass"
+msgstr ""
+
+#. [race]: id=brass
+#: Era_of_Music/races/Brass.cfg:6
+msgid "race+female^Brass"
+msgstr ""
+
+#. [race]: id=brass
+#: Era_of_Music/races/Brass.cfg:9
+msgid ""
+"Massed brass can ruin anyone's day with noises that must be heard to be "
+"believed."
+msgstr ""
+
+#. [race]: id=perc
+#: Era_of_Music/races/Percussion.cfg:5 Era_of_Music/races/Percussion.cfg:7
+msgid "race^Percussion"
+msgstr ""
+
+#. [race]: id=perc
+#: Era_of_Music/races/Percussion.cfg:6
+msgid "race+female^Percussion"
+msgstr ""
+
+#. [race]: id=perc
+#: Era_of_Music/races/Percussion.cfg:9
+msgid ""
+"All manner of things hit, bashed and crashed; the percussion section are "
+"certainly a cacophonous force on the battlefield."
+msgstr ""
+
+#. [race]: id=strings
+#: Era_of_Music/races/Strings.cfg:5
+msgid "race^String"
+msgstr ""
+
+#. [race]: id=strings
+#: Era_of_Music/races/Strings.cfg:6
+msgid "race+female^String"
+msgstr ""
+
+#. [race]: id=strings
+#: Era_of_Music/races/Strings.cfg:7
+msgid "race^Strings"
+msgstr ""
+
+#. [race]: id=strings
+#: Era_of_Music/races/Strings.cfg:9
+msgid ""
+"The string section have fairly heavy wooden instruments and bows strung with "
+"horsehair."
+msgstr ""
+
+#. [race]: id=woodwind
+#: Era_of_Music/races/Woodwind.cfg:5 Era_of_Music/races/Woodwind.cfg:7
+msgid "race^Woodwind"
+msgstr ""
+
+#. [race]: id=woodwind
+#: Era_of_Music/races/Woodwind.cfg:6
+msgid "race+female^Woodwind"
+msgstr ""
+
+#. [race]: id=woodwind
+#: Era_of_Music/races/Woodwind.cfg:9
+msgid ""
+"The upper woodwind can deafen and split skulls with piercingly shrill tones, "
+"while the lower end rely on jazz improvisations."
+msgstr ""
+
+#. [unit_type]: id=alto_sax, race=woodwind
+#: Era_of_Music/units/Alto_Sax.cfg:4
+msgid "Alto Sax"
+msgstr ""
+
+#. [unit_type]: id=alto_sax, race=woodwind
+#: Era_of_Music/units/Alto_Sax.cfg:18
+msgid ""
+"Capable of faster passages than a tenor, the Alto Saxophone is hot stuff."
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=impact
+#: Era_of_Music/units/Alto_Sax.cfg:21 Era_of_Music/units/Bari_Sax.cfg:22
+#: Era_of_Music/units/Bass_Clarinet.cfg:22
+#: Era_of_Music/units/Bass_Flute.cfg:22
+#: Era_of_Music/units/Bass_Trombone.cfg:21 Era_of_Music/units/Clarinet.cfg:21
+#: Era_of_Music/units/Eb_Clarinet.cfg:21 Era_of_Music/units/Flute.cfg:21
+#: Era_of_Music/units/Piccolo.cfg:21 Era_of_Music/units/Soprano_Sax.cfg:22
+#: Era_of_Music/units/Tenor_Sax.cfg:21 Era_of_Music/units/Trombone.cfg:21
+msgid "swing"
+msgstr ""
+
+#. [attack]: type=arcane
+#. [attack]: type=cold
+#. [attack]: type=fire
+#: Era_of_Music/units/Alto_Sax.cfg:42 Era_of_Music/units/Bari_Sax.cfg:43
+#: Era_of_Music/units/Bass_Clarinet.cfg:43 Era_of_Music/units/Cornet.cfg:86
+#: Era_of_Music/units/Eb_Clarinet.cfg:42 Era_of_Music/units/Flugelhorn.cfg:87
+#: Era_of_Music/units/Tenor_Sax.cfg:42
+msgid "jazz"
+msgstr ""
+
+#. [unit_type]: id=ancient_stradivarius, race=strings
+#: Era_of_Music/units/Ancient_Stradivarius.cfg:4
+msgid "Ancient Stradivarius"
+msgstr ""
+
+#. [unit_type]: id=ancient_stradivarius, race=strings
+#: Era_of_Music/units/Ancient_Stradivarius.cfg:19
+msgid ""
+"A Stradivarius of authentic vintage is truly the king of violins.  But its "
+"owner still wallops people over the head with it when not playing a solo."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Music/units/Ancient_Stradivarius.cfg:25
+#: Era_of_Music/units/Bassoon.cfg:22 Era_of_Music/units/Cello.cfg:21
+#: Era_of_Music/units/Concert_Harp.cfg:22
+#: Era_of_Music/units/Crash_Cymbals.cfg:25 Era_of_Music/units/Cymbals.cfg:24
+#: Era_of_Music/units/Drum_Kit.cfg:30 Era_of_Music/units/Euphonium.cfg:21
+#: Era_of_Music/units/Frigideira.cfg:22 Era_of_Music/units/Glockenspiel.cfg:21
+#: Era_of_Music/units/Grand_Cello.cfg:22 Era_of_Music/units/Harp.cfg:21
+#: Era_of_Music/units/Hickory_Viola.cfg:22 Era_of_Music/units/Pandeiro.cfg:21
+#: Era_of_Music/units/Principal.cfg:26 Era_of_Music/units/Snare_Drum.cfg:21
+#: Era_of_Music/units/Stradivarius.cfg:24 Era_of_Music/units/Viola.cfg:21
+#: Era_of_Music/units/Violin.cfg:24 Era_of_Music/units/Xylophone.cfg:21
+msgid "bash"
+msgstr ""
+
+#. [attack]: type=arcane
+#. [attack]: type=cold
+#. [attack]: type=fire
+#. [attack]: type=pierce
+#: Era_of_Music/units/Ancient_Stradivarius.cfg:53
+#: Era_of_Music/units/Bass_Flute.cfg:50 Era_of_Music/units/Bass_Viol.cfg:53
+#: Era_of_Music/units/Bassoon.cfg:50 Era_of_Music/units/Double_Bass.cfg:54
+#: Era_of_Music/units/Euphonium.cfg:49 Era_of_Music/units/Flute.cfg:49
+#: Era_of_Music/units/Hickory_Viola.cfg:50 Era_of_Music/units/Oboe.cfg:45
+#: Era_of_Music/units/Principal.cfg:54 Era_of_Music/units/Sousaphone.cfg:50
+#: Era_of_Music/units/Stradivarius.cfg:52 Era_of_Music/units/Tuba.cfg:49
+#: Era_of_Music/units/Viola.cfg:49 Era_of_Music/units/Violin.cfg:52
+#: Era_of_Music/units/Wagner_Tuba.cfg:50
+msgid "solo"
+msgstr ""
+
+#. [unit_type]: id=bari_sax, race=woodwind
+#: Era_of_Music/units/Bari_Sax.cfg:4
+msgid "Bari Sax"
+msgstr ""
+
+#. [unit_type]: id=bari_sax, race=woodwind
+#: Era_of_Music/units/Bari_Sax.cfg:19
+msgid ""
+"The lowest member of the saxophone family to be commonly encountered, the "
+"Baritone Sax is built like a tank... a shiny brass tank with a reed.  It has "
+"its moments, but ending up playing this often means a dead end for a "
+"musician's career."
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Music/units/Bari_Sax.cfg:64
+msgid "bass"
+msgstr ""
+
+#. [unit_type]: id=bass_clarinet, race=woodwind
+#: Era_of_Music/units/Bass_Clarinet.cfg:4
+msgid "Bass Clarinet"
+msgstr ""
+
+#. [unit_type]: id=bass_clarinet, race=woodwind
+#: Era_of_Music/units/Bass_Clarinet.cfg:19
+msgid ""
+"A bigger, louder, deeper clarinet can send shivers running down your spine."
+msgstr ""
+
+#. [unit_type]: id=bass_drum, race=perc
+#: Era_of_Music/units/Bass_Drum.cfg:4
+msgid "Bass Drum"
+msgstr ""
+
+#. [unit_type]: id=bass_drum, race=perc
+#: Era_of_Music/units/Bass_Drum.cfg:26
+msgid ""
+"The big bass drum booms out across the battlefield.  Its steadiness makes it "
+"a tough defender."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Music/units/Bass_Drum.cfg:32 Era_of_Music/units/Tympani.cfg:25
+msgid "roll"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Music/units/Bass_Drum.cfg:54 Era_of_Music/units/Floor_Tom.cfg:21
+#: Era_of_Music/units/Frigideira.cfg:50 Era_of_Music/units/Pandeiro.cfg:49
+#: Era_of_Music/units/Tympani.cfg:46
+msgid "beat"
+msgstr ""
+
+#. [unit_type]: id=bass_flute, race=woodwind
+#: Era_of_Music/units/Bass_Flute.cfg:4
+msgid "Bass Flute"
+msgstr ""
+
+#. [unit_type]: id=bass_flute, race=woodwind
+#: Era_of_Music/units/Bass_Flute.cfg:19
+msgid ""
+"The Bass Flute, a large and unwieldy instrument, is rarely seen in small "
+"ensembles.  However, it makes a decent weapon."
+msgstr ""
+
+#. [unit_type]: id=bass_trombone, race=brass
+#: Era_of_Music/units/Bass_Trombone.cfg:4
+msgid "Bass Trombone"
+msgstr ""
+
+#. [unit_type]: id=bass_trombone, race=brass
+#: Era_of_Music/units/Bass_Trombone.cfg:18
+msgid "A bass trombone at close range is a truly frightening thing."
+msgstr ""
+
+#. [attack]: type=fire
+#. [attack]: type=impact
+#: Era_of_Music/units/Bass_Trombone.cfg:42 Era_of_Music/units/Cornet.cfg:21
+#: Era_of_Music/units/Flugelhorn.cfg:22
+#: Era_of_Music/units/Piccolo_Trumpet.cfg:22
+#: Era_of_Music/units/Trombone.cfg:42 Era_of_Music/units/Trumpet.cfg:21
+#: Era_of_Music/units/Vuvuzela.cfg:21
+msgid "blast"
+msgstr ""
+
+#. [unit_type]: id=bass_viol, race=strings
+#: Era_of_Music/units/Bass_Viol.cfg:4
+msgid "Bass Viol"
+msgstr ""
+
+#. [unit_type]: id=bass_viol, race=strings
+#: Era_of_Music/units/Bass_Viol.cfg:19
+msgid ""
+"The big bad bass is not easily moved, as its players will confirm.  It's "
+"also a painful object to get run over by."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Music/units/Bass_Viol.cfg:22 Era_of_Music/units/Double_Bass.cfg:23
+#: Era_of_Music/units/Sousaphone.cfg:22 Era_of_Music/units/Tuba.cfg:21
+#: Era_of_Music/units/Tubular_Bells.cfg:22
+#: Era_of_Music/units/Wagner_Tuba.cfg:22
+msgid "crush"
+msgstr ""
+
+#. [unit_type]: id=bassoon, race=woodwind
+#: Era_of_Music/units/Bassoon.cfg:4
+msgid "Bassoon"
+msgstr ""
+
+#. [unit_type]: id=bassoon, race=woodwind
+#: Era_of_Music/units/Bassoon.cfg:19
+msgid ""
+"The bassoon is the oboe's big brother.  It's a joy to behold... from a safe "
+"distance."
+msgstr ""
+
+#. [unit_type]: id=cello, race=strings
+#: Era_of_Music/units/Cello.cfg:4
+msgid "'Cello"
+msgstr ""
+
+#. [unit_type]: id=cello, race=strings
+#: Era_of_Music/units/Cello.cfg:18
+msgid ""
+"The violoncello is a powerful bludgeoning weapon and comes with a bow.  "
+"Allegedly it can also play music."
+msgstr ""
+
+#. [attack]: type=fire
+#. [attack]: type=pierce
+#: Era_of_Music/units/Cello.cfg:49 Era_of_Music/units/Grand_Cello.cfg:50
+#: Era_of_Music/units/Grand_Cello.cfg:71
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=clarinet, race=woodwind
+#: Era_of_Music/units/Clarinet.cfg:4
+msgid "Clarinet"
+msgstr ""
+
+#. [unit_type]: id=clarinet, race=woodwind
+#: Era_of_Music/units/Clarinet.cfg:18
+msgid ""
+"Affectionately known as the 'liquorice stick', the clarinet has a sinuous "
+"and supple sound, especially in the chalumeau register."
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Music/units/Clarinet.cfg:42
+msgid "chalumeau"
+msgstr ""
+
+#. [unit_type]: id=concert_harp, race=strings
+#: Era_of_Music/units/Concert_Harp.cfg:4
+msgid "Concert Harp"
+msgstr ""
+
+#. [unit_type]: id=concert_harp, race=strings
+#: Era_of_Music/units/Concert_Harp.cfg:19
+msgid ""
+"A full-sized concert harp, strategically applied, can turn the course of an "
+"entire battle."
+msgstr ""
+
+#. [attack]: type=arcane
+#. [attack]: type=impact
+#: Era_of_Music/units/Concert_Harp.cfg:50
+#: Era_of_Music/units/Glockenspiel.cfg:49 Era_of_Music/units/Harp.cfg:49
+#: Era_of_Music/units/Tubular_Bells.cfg:50 Era_of_Music/units/Xylophone.cfg:49
+msgid "arpeggio"
+msgstr ""
+
+#. [unit_type]: id=cornet, race=brass
+#: Era_of_Music/units/Cornet.cfg:4
+msgid "Cornet"
+msgstr ""
+
+#. [unit_type]: id=cornet, race=brass
+#: Era_of_Music/units/Cornet.cfg:18
+msgid "Though more mellow than the trumpet, the Cornet is far more versatile."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Music/units/Cornet.cfg:42 Era_of_Music/units/Flugelhorn.cfg:43
+#: Era_of_Music/units/Piccolo_Trumpet.cfg:43 Era_of_Music/units/Trumpet.cfg:42
+msgid "fanfare"
+msgstr ""
+
+#. [unit_type]: id=crash_cymbals, race=perc
+#: Era_of_Music/units/Crash_Cymbals.cfg:4
+msgid "Crash Cymbals"
+msgstr ""
+
+#. [unit_type]: id=crash_cymbals, race=perc
+#: Era_of_Music/units/Crash_Cymbals.cfg:19
+msgid "Bigger, better cymbals; more crashing, more healing"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Music/units/Crash_Cymbals.cfg:46 Era_of_Music/units/Cymbals.cfg:45
+msgid "crash"
+msgstr ""
+
+#. [unit_type]: id=cymbals, race=perc
+#: Era_of_Music/units/Cymbals.cfg:4
+msgid "Cymbals"
+msgstr ""
+
+#. [unit_type]: id=cymbals, race=perc
+#: Era_of_Music/units/Cymbals.cfg:18
+msgid ""
+"When not crashing about their enemies' ears, cymbals can perform basic "
+"healing."
+msgstr ""
+
+#. [unit_type]: id=double_bass, race=strings
+#: Era_of_Music/units/Double_Bass.cfg:4
+msgid "Double Bass"
+msgstr ""
+
+#. [unit_type]: id=double_bass, race=strings
+#: Era_of_Music/units/Double_Bass.cfg:20
+msgid ""
+"A mammoth of an instrument, the double bass doesn't often get a solo... but "
+"when it does, you know about it!"
+msgstr ""
+
+#. [unit_type]: id=drum_kit, race=perc
+#: Era_of_Music/units/Drum_Kit.cfg:4
+msgid "Drum Kit"
+msgstr ""
+
+#. [unit_type]: id=drum_kit, race=perc
+#: Era_of_Music/units/Drum_Kit.cfg:27
+msgid ""
+"With a full kit, a drummer can get in many more hits than with a single "
+"snare."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Music/units/Drum_Kit.cfg:52 Era_of_Music/units/Snare_Drum.cfg:42
+msgid "ensnare"
+msgstr ""
+
+#. [unit_type]: id=eb_clarinet, race=woodwind
+#: Era_of_Music/units/Eb_Clarinet.cfg:4
+msgid "E♭ Clarinet"
+msgstr ""
+
+#. [unit_type]: id=eb_clarinet, race=woodwind
+#: Era_of_Music/units/Eb_Clarinet.cfg:18
+msgid ""
+"Skilled clarinettists often migrate to the E flat, because it gets all the "
+"cool tunes."
+msgstr ""
+
+#. [unit_type]: id=euphonium, race=brass
+#: Era_of_Music/units/Euphonium.cfg:4
+msgid "Euphonium"
+msgstr ""
+
+#. [unit_type]: id=euphonium, race=brass
+#: Era_of_Music/units/Euphonium.cfg:18
+msgid "The euphonium is well-suited to use as artillery."
+msgstr ""
+
+#. [unit_type]: id=floor_tom, race=perc
+#: Era_of_Music/units/Floor_Tom.cfg:4
+msgid "Floor Tom"
+msgstr ""
+
+#. [unit_type]: id=floor_tom, race=perc
+#: Era_of_Music/units/Floor_Tom.cfg:18
+msgid ""
+"A floor tom can be handled by completely unskilled players.  It's not very "
+"powerful though."
+msgstr ""
+
+#. [unit_type]: id=flugelhorn, race=brass
+#: Era_of_Music/units/Flugelhorn.cfg:4
+msgid "Flugelhorn"
+msgstr ""
+
+#. [unit_type]: id=flugelhorn, race=brass
+#: Era_of_Music/units/Flugelhorn.cfg:19
+msgid ""
+"A Dutch specialty, the Flugelhorn is the pinnacle of the cornet line.  It's "
+"a powerful all-round footsoldier."
+msgstr ""
+
+#. [unit_type]: id=flute, race=woodwind
+#: Era_of_Music/units/Flute.cfg:4
+msgid "Flute"
+msgstr ""
+
+#. [unit_type]: id=flute, race=woodwind
+#: Era_of_Music/units/Flute.cfg:18
+msgid ""
+"The flute is a popular choice for novice wind players, as its piercing tones "
+"require very little skill to produce.  Extracting a pleasant sound from it "
+"would require actual ability, however."
+msgstr ""
+
+#. [unit_type]: id=frigideira, race=perc
+#: Era_of_Music/units/Frigideira.cfg:4
+msgid "Frigideira"
+msgstr ""
+
+#. [unit_type]: id=frigideira, race=perc
+#: Era_of_Music/units/Frigideira.cfg:19
+msgid "The frigideira is much like the pandeiro, only bigger."
+msgstr ""
+
+#. [unit_type]: id=garklein, race=woodwind
+#: Era_of_Music/units/Garklein.cfg:4
+msgid "Garklein"
+msgstr ""
+
+#. [unit_type]: id=garklein, race=woodwind
+#: Era_of_Music/units/Garklein.cfg:19
+msgid ""
+"None can withstand the might of the garklein-flötlein.  Whether piercingly "
+"shrill or fast and fiery, the Garklein always makes its presence felt."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Music/units/Garklein.cfg:22 Era_of_Music/units/Oboe.cfg:21
+msgid "stab"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Music/units/Garklein.cfg:50 Era_of_Music/units/Piccolo.cfg:49
+msgid "high solo"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Music/units/Garklein.cfg:78 Era_of_Music/units/Piccolo.cfg:77
+msgid "fast solo"
+msgstr ""
+
+#. [unit_type]: id=glockenspiel, race=perc
+#: Era_of_Music/units/Glockenspiel.cfg:4
+msgid "Glockenspiel"
+msgstr ""
+
+#. [unit_type]: id=glockenspiel, race=perc
+#: Era_of_Music/units/Glockenspiel.cfg:18
+msgid "The glockenspiel's tinsel tones are truly magical."
+msgstr ""
+
+#. [unit_type]: id=grand_cello, race=strings
+#: Era_of_Music/units/Grand_Cello.cfg:4
+msgid "Grand 'Cello"
+msgstr ""
+
+#. [unit_type]: id=grand_cello, race=strings
+#: Era_of_Music/units/Grand_Cello.cfg:19
+msgid ""
+"A beatifully poised and ornate 'cello makes a potent weapon in the hands of "
+"a skilled player."
+msgstr ""
+
+#. [unit_type]: id=harp, race=strings
+#: Era_of_Music/units/Harp.cfg:4
+msgid "Harp"
+msgstr ""
+
+#. [unit_type]: id=harp, race=strings
+#: Era_of_Music/units/Harp.cfg:18
+msgid ""
+"With so many strings, a harp can fire off notes faster than any of its "
+"compatriots."
+msgstr ""
+
+#. [unit_type]: id=hickory_viola, race=strings
+#: Era_of_Music/units/Hickory_Viola.cfg:4
+msgid "Hickory Viola"
+msgstr ""
+
+#. [unit_type]: id=hickory_viola, race=strings
+#: Era_of_Music/units/Hickory_Viola.cfg:19
+msgid "This top-quality viola can make a whole audience ill at twenty paces."
+msgstr ""
+
+#. [unit_type]: id=horn, race=brass
+#: Era_of_Music/units/Horn.cfg:4
+msgid "Horn"
+msgstr ""
+
+#. [unit_type]: id=horn, race=brass
+#: Era_of_Music/units/Horn.cfg:18
+msgid ""
+"Horns are the cavalry of the brass, charging in with bunched fists and split "
+"notes."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Music/units/Horn.cfg:54 Era_of_Music/units/Wagner_Horn.cfg:55
+msgid "split"
+msgstr ""
+
+#. [unit_type]: id=oboe, race=woodwind
+#: Era_of_Music/units/Oboe.cfg:4
+msgid "Oboe"
+msgstr ""
+
+#. [unit_type]: id=oboe, race=woodwind
+#: Era_of_Music/units/Oboe.cfg:18
+msgid ""
+"The underdogs of the wind section, Oboists should not be underestimated - "
+"the Oboe Mafia is a powerful and secretive force."
+msgstr ""
+
+#. [unit_type]: id=pandeiro, race=perc
+#: Era_of_Music/units/Pandeiro.cfg:4
+msgid "Pandeiro"
+msgstr ""
+
+#. [unit_type]: id=pandeiro, race=perc
+#: Era_of_Music/units/Pandeiro.cfg:18
+msgid ""
+"The pandeiro, from Latin America, is often encountered in samba.  It's "
+"capable of extreme rapidity."
+msgstr ""
+
+#. [unit_type]: id=piccolo, race=woodwind
+#: Era_of_Music/units/Piccolo.cfg:4
+msgid "Piccolo"
+msgstr ""
+
+#. [unit_type]: id=piccolo, race=woodwind
+#: Era_of_Music/units/Piccolo.cfg:18
+msgid ""
+"Trading up from a flute to a piccolo brings a wider variety of solos, and a "
+"more piercing sound with which to embody them."
+msgstr ""
+
+#. [unit_type]: id=piccolo_trumpet, race=brass
+#: Era_of_Music/units/Piccolo_Trumpet.cfg:4
+msgid "Piccolo Trumpet"
+msgstr ""
+
+#. [unit_type]: id=piccolo_trumpet, race=brass
+#: Era_of_Music/units/Piccolo_Trumpet.cfg:19
+msgid ""
+"Some trumpeters specialise in being as deafening as possible.  For these, "
+"the Piccolo Trumpet is a valuable weapon."
+msgstr ""
+
+#. [unit_type]: id=principal, race=strings
+#: Era_of_Music/units/Principal.cfg:4
+msgid "Principal"
+msgstr ""
+
+#. [unit_type]: id=principal, race=strings
+#: Era_of_Music/units/Principal.cfg:19
+msgid "The Principal Violin is the leader of the string section."
+msgstr ""
+
+#. [unit_type]: id=snare_drum, race=perc
+#: Era_of_Music/units/Snare_Drum.cfg:4
+msgid "Snare Drum"
+msgstr ""
+
+#. [unit_type]: id=snare_drum, race=perc
+#: Era_of_Music/units/Snare_Drum.cfg:18
+msgid "The snare drum can slow down opponents by entangling them in its snare."
+msgstr ""
+
+#. [unit_type]: id=soprano_sax, race=woodwind
+#: Era_of_Music/units/Soprano_Sax.cfg:4
+msgid "Soprano Sax"
+msgstr ""
+
+#. [unit_type]: id=soprano_sax, race=woodwind
+#: Era_of_Music/units/Soprano_Sax.cfg:19
+msgid ""
+"A gleaming brass masterpiece, the Soprano Sax is often played by cross-"
+"trained clarinettists as well as saxophonists.  Who can blame them, with "
+"this much jazz at their fingertips?"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Music/units/Soprano_Sax.cfg:43
+msgid "fast jazz"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Music/units/Soprano_Sax.cfg:64
+msgid "cool jazz"
+msgstr ""
+
+#. [unit_type]: id=sousaphone, race=brass
+#: Era_of_Music/units/Sousaphone.cfg:4
+msgid "Sousaphone"
+msgstr ""
+
+#. [unit_type]: id=sousaphone, race=brass
+#: Era_of_Music/units/Sousaphone.cfg:19
+msgid ""
+"The sousaphone is much better suited than the tuba to marching quickly, and "
+"much more destructive than the trombone.  Its players are able to flatten "
+"enemies with sforzandissimo ease."
+msgstr ""
+
+#. [unit_type]: id=stradivarius, race=strings
+#: Era_of_Music/units/Stradivarius.cfg:4
+msgid "Stradivarius"
+msgstr ""
+
+#. [unit_type]: id=stradivarius, race=strings
+#: Era_of_Music/units/Stradivarius.cfg:18
+msgid ""
+"The quality of a violin is highly dependent on its varnish.  More layers of "
+"varnish makes for a better bludgeon."
+msgstr ""
+
+#. [unit_type]: id=tenor_sax, race=woodwind
+#: Era_of_Music/units/Tenor_Sax.cfg:4
+msgid "Tenor Sax"
+msgstr ""
+
+#. [unit_type]: id=tenor_sax, race=woodwind
+#: Era_of_Music/units/Tenor_Sax.cfg:18
+msgid ""
+"Saxophones are versatile instruments; they can be swung against an "
+"opponent's head, or rigged up as makeshift flamethrowers.  Now THAT's "
+"jazzing it up!"
+msgstr ""
+
+#. [unit_type]: id=trombone, race=brass
+#: Era_of_Music/units/Trombone.cfg:4
+msgid "Trombone"
+msgstr ""
+
+#. [unit_type]: id=trombone, race=brass
+#: Era_of_Music/units/Trombone.cfg:18
+msgid ""
+"The trombones are the tenor of the brass family, and should not be "
+"underestimated."
+msgstr ""
+
+#. [unit_type]: id=trumpet, race=brass
+#: Era_of_Music/units/Trumpet.cfg:4
+msgid "Trumpet"
+msgstr ""
+
+#. [unit_type]: id=trumpet, race=brass
+#: Era_of_Music/units/Trumpet.cfg:18
+msgid ""
+"The bulk of the brass sound usually comes from the Trumpets.  Their defining "
+"attribute is excessive volume."
+msgstr ""
+
+#. [unit_type]: id=tuba, race=brass
+#: Era_of_Music/units/Tuba.cfg:4
+msgid "Tuba"
+msgstr ""
+
+#. [unit_type]: id=tuba, race=brass
+#: Era_of_Music/units/Tuba.cfg:18
+msgid ""
+"The tuba makes for truly heavy artillery, capable of routing entrenched "
+"enemies."
+msgstr ""
+
+#. [unit_type]: id=tubular_bells, race=perc
+#: Era_of_Music/units/Tubular_Bells.cfg:4
+msgid "Tubular Bells"
+msgstr ""
+
+#. [unit_type]: id=tubular_bells, race=perc
+#: Era_of_Music/units/Tubular_Bells.cfg:19
+msgid "Tubular bells weigh in with dulcet chimes."
+msgstr ""
+
+#. [unit_type]: id=tympani, race=perc
+#: Era_of_Music/units/Tympani.cfg:4
+msgid "Tympani"
+msgstr ""
+
+#. [unit_type]: id=tympani, race=perc
+#: Era_of_Music/units/Tympani.cfg:19
+msgid ""
+"The tympani, or 'kettle drums', are still more deep and booming than the "
+"bass drum.  A solid guard indeed, though still vulnerable to piercing "
+"weapons."
+msgstr ""
+
+#. [unit_type]: id=viola, race=strings
+#: Era_of_Music/units/Viola.cfg:4
+msgid "Viola"
+msgstr ""
+
+#. [unit_type]: id=viola, race=strings
+#: Era_of_Music/units/Viola.cfg:18
+msgid ""
+"Often considered inferior to its smaller cousin, the viola actually has a "
+"vital role to play in the orchestra.  What other instrument can so "
+"consistently make everyone near it feel ill?"
+msgstr ""
+
+#. [unit_type]: id=violin, race=strings
+#: Era_of_Music/units/Violin.cfg:4
+msgid "Violin"
+msgstr ""
+
+#. [unit_type]: id=violin, race=strings
+#: Era_of_Music/units/Violin.cfg:18
+msgid ""
+"Violins are quick and nippy, and can get through passages that seem "
+"completely impossible.  This is often useful on the battlefield."
+msgstr ""
+
+#. [unit_type]: id=vuvuzela, race=brass
+#: Era_of_Music/units/Vuvuzela.cfg:4
+msgid "Vuvuzela"
+msgstr ""
+
+#. [unit_type]: id=vuvuzela, race=brass
+#: Era_of_Music/units/Vuvuzela.cfg:18
+msgid ""
+"The Vuvuzela is an extremely annoying, though not positively dangerous, "
+"brass instrument."
+msgstr ""
+
+#. [unit_type]: id=wagner_horn, race=brass
+#: Era_of_Music/units/Wagner_Horn.cfg:4
+msgid "Wagner Horn"
+msgstr ""
+
+#. [unit_type]: id=wagner_horn, race=brass
+#: Era_of_Music/units/Wagner_Horn.cfg:19
+msgid ""
+"The Wagner Horn is bigger and more deadly than the standard variety.  Fear "
+"it!"
+msgstr ""
+
+#. [unit_type]: id=wagner_tuba, race=brass
+#: Era_of_Music/units/Wagner_Tuba.cfg:4
+msgid "Wagner Tuba"
+msgstr ""
+
+#. [unit_type]: id=wagner_tuba, race=brass
+#: Era_of_Music/units/Wagner_Tuba.cfg:19
+msgid ""
+"The Wagner Tuba is the ultimate in oversized artillery pieces masquerading "
+"as a brass instrument."
+msgstr ""
+
+#. [unit_type]: id=xylophone, race=perc
+#: Era_of_Music/units/Xylophone.cfg:4
+msgid "Xylophone"
+msgstr ""
+
+#. [unit_type]: id=xylophone, race=perc
+#: Era_of_Music/units/Xylophone.cfg:18
+msgid "The wooden xylophone is vulnerable to fire, but it's a potent weapon."
+msgstr ""
