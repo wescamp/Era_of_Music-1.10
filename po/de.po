@@ -828,7 +828,7 @@ msgstr ""
 #. [unit_type]: id=tuba, race=brass
 #: Era_of_Music/units/Tuba.cfg:4
 msgid "Tuba"
-msgstr ""
+msgstr "Tuba"
 
 #. [unit_type]: id=tuba, race=brass
 #: Era_of_Music/units/Tuba.cfg:18
@@ -852,7 +852,7 @@ msgstr "Röhrenglocken wiegen mit wohlklingenden Glocken."
 #. [unit_type]: id=tympani, race=perc
 #: Era_of_Music/units/Tympani.cfg:4
 msgid "Tympani"
-msgstr ""
+msgstr "Pauken"
 
 #. [unit_type]: id=tympani, race=perc
 #: Era_of_Music/units/Tympani.cfg:19
@@ -911,7 +911,7 @@ msgstr ""
 #. [unit_type]: id=wagner_horn, race=brass
 #: Era_of_Music/units/Wagner_Horn.cfg:4
 msgid "Wagner Horn"
-msgstr ""
+msgstr "Wagner-Horn"
 
 #. [unit_type]: id=wagner_horn, race=brass
 #: Era_of_Music/units/Wagner_Horn.cfg:19
@@ -925,7 +925,7 @@ msgstr ""
 #. [unit_type]: id=wagner_tuba, race=brass
 #: Era_of_Music/units/Wagner_Tuba.cfg:4
 msgid "Wagner Tuba"
-msgstr ""
+msgstr "Wagner-Tuba"
 
 #. [unit_type]: id=wagner_tuba, race=brass
 #: Era_of_Music/units/Wagner_Tuba.cfg:19
