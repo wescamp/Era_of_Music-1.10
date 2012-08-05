@@ -602,7 +602,7 @@ msgid ""
 "a skilled player."
 msgstr ""
 "Ein wunderschön balanciert und verzierten 'Cello macht in den Händen eines "
-"erfahrenen Spielers eine mächtige Waffe"
+"erfahrenen Spielers eine mächtige Waffe."
 
 #. [unit_type]: id=harp, race=strings
 #: Era_of_Music/units/Harp.cfg:4
